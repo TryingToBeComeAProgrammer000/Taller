@@ -1,0 +1,14 @@
+C:\Users\Bernal Santiago\source\repos\CalculadoraDeDivisas\CalculadoraDeDivisas\obj\Debug\netcoreapp3.1\CalculadoraDeDivisas.csproj.AssemblyReference.cache
+C:\Users\Bernal Santiago\source\repos\CalculadoraDeDivisas\CalculadoraDeDivisas\obj\Debug\netcoreapp3.1\CalculadoraDeDivisas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernal Santiago\source\repos\CalculadoraDeDivisas\CalculadoraDeDivisas\obj\Debug\netcoreapp3.1\CalculadoraDeDivisas.AssemblyInfoInputs.cache
+C:\Users\Bernal Santiago\source\repos\CalculadoraDeDivisas\CalculadoraDeDivisas\obj\Debug\netcoreapp3.1\CalculadoraDeDivisas.AssemblyInfo.cs
+C:\Users\Bernal Santiago\source\repos\CalculadoraDeDivisas\CalculadoraDeDivisas\obj\Debug\netcoreapp3.1\CalculadoraDeDivisas.csproj.CoreCompileInputs.cache
+C:\Users\Bernal Santiago\source\repos\CalculadoraDeDivisas\CalculadoraDeDivisas\bin\Debug\netcoreapp3.1\CalculadoraDeDivisas.exe
+C:\Users\Bernal Santiago\source\repos\CalculadoraDeDivisas\CalculadoraDeDivisas\bin\Debug\netcoreapp3.1\CalculadoraDeDivisas.deps.json
+C:\Users\Bernal Santiago\source\repos\CalculadoraDeDivisas\CalculadoraDeDivisas\bin\Debug\netcoreapp3.1\CalculadoraDeDivisas.runtimeconfig.json
+C:\Users\Bernal Santiago\source\repos\CalculadoraDeDivisas\CalculadoraDeDivisas\bin\Debug\netcoreapp3.1\CalculadoraDeDivisas.runtimeconfig.dev.json
+C:\Users\Bernal Santiago\source\repos\CalculadoraDeDivisas\CalculadoraDeDivisas\bin\Debug\netcoreapp3.1\CalculadoraDeDivisas.dll
+C:\Users\Bernal Santiago\source\repos\CalculadoraDeDivisas\CalculadoraDeDivisas\bin\Debug\netcoreapp3.1\CalculadoraDeDivisas.pdb
+C:\Users\Bernal Santiago\source\repos\CalculadoraDeDivisas\CalculadoraDeDivisas\obj\Debug\netcoreapp3.1\CalculadoraDeDivisas.dll
+C:\Users\Bernal Santiago\source\repos\CalculadoraDeDivisas\CalculadoraDeDivisas\obj\Debug\netcoreapp3.1\CalculadoraDeDivisas.pdb
+C:\Users\Bernal Santiago\source\repos\CalculadoraDeDivisas\CalculadoraDeDivisas\obj\Debug\netcoreapp3.1\CalculadoraDeDivisas.genruntimeconfig.cache
